@@ -1,6 +1,6 @@
 # nlw eSports app
 
-<img src="logo-nlw-esports.svg" alt="logo frexco">
+<img src="logo-nlw-esports.svg" alt="logo esports">
 
 
 
@@ -23,8 +23,6 @@ Objetivo: utilizando o Node, npm, React, Type Script. Foi desenvolvido projeto f
 - [x] Elemententos React.
 - [x] CSS.
 - [x] Responsivo. 
-- [x] inclusão de produtos no estoque
-- [x] Login (usuário: admin | senha: frexco ).
 - [x] tipado
 
 # Autor
